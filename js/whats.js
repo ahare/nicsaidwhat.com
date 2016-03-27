@@ -102,7 +102,8 @@ var whats = [
       "The Little Mermaid doesn't count as a princess. She's like an aquatic whore.",
       "OK, now everyone go down to the basement and pretend that you don't exist. I should have said \"pretend <em>I</em> don't exist\". That made me sound like a terrible mother!",
       "Superheros are supposed to be the most awesome people but they wear their underwear on the outside of their suits. I'm like `\"Dude, those go on <em>first</em>.\"",
-      "Where is the TV and why is it not on?"
+      "Where is the TV and why is it not on?",
+      "Why do they call them packing peanuts? They should call them packing cheese doodles!"
 ].shuffle();
 
 var sayWhat = function() {
