@@ -103,7 +103,8 @@ var whats = [
       "OK, now everyone go down to the basement and pretend that you don't exist. I should have said \"pretend <em>I</em> don't exist\". That made me sound like a terrible mother!",
       "Superheros are supposed to be the most awesome people but they wear their underwear on the outside of their suits. I'm like `\"Dude, those go on <em>first</em>.\"",
       "Where is the TV and why is it not on?",
-      "Why do they call them packing peanuts? They should call them packing cheese doodles!"
+      "Why do they call them packing peanuts? They should call them packing cheese doodles!",
+      "Jacky, do you want to go into the store? Well, I'm not going to take a whiny-butt into the store OK?"
 ].shuffle();
 
 var sayWhat = function() {
