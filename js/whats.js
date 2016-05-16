@@ -104,7 +104,8 @@ var whats = [
       "Superheros are supposed to be the most awesome people but they wear their underwear on the outside of their suits. I'm like `\"Dude, those go on <em>first</em>.\"",
       "Where is the TV and why is it not on?",
       "Why do they call them packing peanuts? They should call them packing cheese doodles!",
-      "Jacky, do you want to go into the store? Well, I'm not going to take a whiny-butt into the store OK?"
+      "Jacky, do you want to go into the store? Well, I'm not going to take a whiny-butt into the store OK?",
+      "Me: Does the lasagna need to come out of the oven? Nic: I don't know, I just stuck it in there. What? I'm not feeling very maternal today!"
 ].shuffle();
 
 var sayWhat = function() {
