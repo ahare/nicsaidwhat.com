@@ -105,7 +105,8 @@ var whats = [
       "Where is the TV and why is it not on?",
       "Why do they call them packing peanuts? They should call them packing cheese doodles!",
       "Jacky, do you want to go into the store? Well, I'm not going to take a whiny-butt into the store OK?",
-      "Me: Does the lasagna need to come out of the oven? Nic: I don't know, I just stuck it in there. What? I'm not feeling very maternal today!"
+      "Me: Does the lasagna need to come out of the oven? Nic: I don't know, I just stuck it in there. What? I'm not feeling very maternal today!",
+      "I tried to put our names together and its either \"New\" or \"Dic\" so <em>that's</em> not going to work."
 ].shuffle();
 
 var sayWhat = function() {
