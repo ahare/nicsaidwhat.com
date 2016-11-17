@@ -109,7 +109,9 @@ var whats = [
       "I tried to put our names together and its either \"New\" or \"Dic\" so <em>that's</em> not going to work.",
       "(After eating a pine nut) It's like Christmas in my mouth.",
       "I'm going to serve meatballs for lunch. It's going to be great.",
-      "Joe: Do you like things that are stale? Nic: No, unless it's marshmallows, Twizzlers, or candy of any kind."
+      "Joe: Do you like things that are stale? Nic: No, unless it's marshmallows, Twizzlers, or candy of any kind.",
+      "Me: Do you want coffee? Nic: *scoffs* Do birds fly? Well, not all birds, which is probably why you asked that question.",
+      "You are so close to being <em>grounded</em> but not <em>some</em> of you!"
 ].shuffle();
 
 var sayWhat = function() {
