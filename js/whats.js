@@ -112,7 +112,8 @@ var whats = [
       "Joe: Do you like things that are stale? Nic: No, unless it's marshmallows, Twizzlers, or candy of any kind.",
       "Me: Do you want coffee? Nic: *scoffs* Do birds fly? Well, not all birds, which is probably why you asked that question.",
       "You are so close to being <em>grounded</em> but not <em>some</em> of you!",
-      "Mikey: I want to spend time with you guys at night! Nic: Just two nights ago you sat up with us on the couch for two hours! Mikey:...throwing up."
+      "Mikey: I want to spend time with you guys at night! Nic: Just two nights ago you sat up with us on the couch for two hours! Mikey:...throwing up.",
+      "I really hate dishes...and water..."
 ].shuffle();
 
 var sayWhat = function() {
