@@ -14,7 +14,6 @@ var whats = [
       "How could you forget... what’s his name?",
       "When Sammy smiles you melt into a puddle of failed discipline.",
       "Michael is sad because we can’t find his Venom mask. And I won’t electrical-tape the back of his head.",
-      "Boys you have two things to be afraid of. One, nothing. Two, spankings.",
       "I do like a hundred of them and that’s in sets of ten so that’s more like... a lot.",
       "I draw the line - just not on my brows!",
       "Don’t throw the Bilibo out with the bathwater. But you could probably throw the bathwater out with the Bilibo.",
