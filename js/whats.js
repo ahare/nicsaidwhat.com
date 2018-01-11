@@ -113,7 +113,8 @@ var whats = [
       "You are so close to being <em>grounded</em> but not <em>some</em> of you!",
       "Mikey: I want to spend time with you guys at night! Nic: Just two nights ago you sat up with us on the couch for two hours! Mikey:...throwing up.",
       "I really hate dishes...and water...",
-      "(Sitting back to binge-watch Hallmark movies) Now <em>this</em> is why I need net neutrality."
+      "(Sitting back to binge-watch Hallmark movies) Now <em>this</em> is why I need net neutrality.",
+      "You know, if I was Elsa, I'd really stop talking with my hands"
 ].shuffle();
 
 var sayWhat = function() {
