@@ -132,9 +132,15 @@ var sayWhat = function() {
         left: Math.floor(Math.random() * (maxLeft + 1)),
         top: Math.floor(Math.random() * (maxTop + 1))
     }).show();
-}
+
+    var delay = (text.length * 75);
+    if (delay < 5000) {
+      delay = 5000;
+    }
+    console.log("next message in " + delay + "ms");
+    setTimeout(sayWhat, delay);
+};
 
 $(function() {
     sayWhat();
-    setInterval(sayWhat, 5000);
 });
