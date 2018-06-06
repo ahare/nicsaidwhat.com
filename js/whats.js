@@ -117,7 +117,8 @@ var whats = [
       "You know, if I was Elsa, I'd really stop talking with my hands",
       "Jack you have three seconds. 5...4...",
       "We're not the only ones, apparently at night time everyone's kids become dehydrated philosophers.",
-      "Michael, if I say it's going to help it's going to help and if it's not going to help just remember I'm always right."
+      "Michael, if I say it's going to help it's going to help and if it's not going to help just remember I'm always right.",
+      "Shh... Mother Bear is going to talk again and probably say something rude!"
 ].shuffle();
 
 var sayWhat = function() {
