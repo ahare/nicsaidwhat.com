@@ -118,7 +118,8 @@ var whats = [
       "Jack you have three seconds. 5...4...",
       "We're not the only ones, apparently at night time everyone's kids become dehydrated philosophers.",
       "Michael, if I say it's going to help it's going to help and if it's not going to help just remember I'm always right.",
-      "Shh... Mother Bear is going to talk again and probably say something rude!"
+      "Shh... Mother Bear is going to talk again and probably say something rude!",
+      "If anyone is going to be downstairs, they need to be going outside or upstairs."
 ].shuffle();
 
 var sayWhat = function() {
