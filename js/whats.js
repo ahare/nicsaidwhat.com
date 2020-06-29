@@ -119,7 +119,8 @@ var whats = [
       "We're not the only ones, apparently at night time everyone's kids become dehydrated philosophers.",
       "Michael, if I say it's going to help it's going to help and if it's not going to help just remember I'm always right.",
       "Shh... Mother Bear is going to talk again and probably say something rude!",
-      "If anyone is going to be downstairs, they need to be going outside or upstairs."
+      "If anyone is going to be downstairs, they need to be going outside or upstairs.",
+      "Guys, you need to put your pencils <em>in</em> the pencil cup, not in the vicinity of it. It not like you get credit for putting in next to the cup and <em>extra</em> credit for putting it in the cup!"
 ].shuffle();
 
 var sayWhat = function() {
